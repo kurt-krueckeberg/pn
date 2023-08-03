@@ -2,7 +2,7 @@
 
 ## Research Aids
 
-## [elicit.org](https://elicit.org) 
+### [elicit.org](https://elicit.org) 
 
 [elicit.org](https://elicit.org) is free. As the FAQS page [explains](https://elicit.org/faq#what-is-elicit):
 
@@ -10,7 +10,7 @@
 in Elicit is Literature Review. If you ask a question, Elicit will show relevant papers and summaries of key information about those papers
 in an easy-to-use table.
 
-## Scispace [https://typeset.io/](https://typeset.io/)
+### Scispace [https://typeset.io/](https://typeset.io/)
 
 It is also free.  It allows you to not only search for relevant scientific literature, but to then read it using AI, which I haven't tried.
 
