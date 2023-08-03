@@ -9,14 +9,15 @@
 project = 'Peripheral Neuropathy Notes'
 copyright = '2023, Kurt'
 author = 'Kurt'
-release = '.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-html_theme = 'piccolo_theme'
+extensions = ['myst_parser']
 
-extensions = [ 'myst-parser']
+myst_enable_extensions = [
+  "colon_fence", "deflist"
+]
 
 source_suffix = {
     '.rst': 'restructuredtext',
@@ -31,4 +32,5 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
+html_theme = 'piccolo_theme'
 html_static_path = ['_static']
