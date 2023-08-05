@@ -2,7 +2,7 @@
 
 ## Scientific Research Aided by AI
 
-These sites that use AI to help find relevant research article sare currently free:
+These sites use AI to help you find relevant research articles. They are currently free:
 
 1. [elicit.org](https://elicit.org) 
 2. [SciSpace](https://typeset.io/)
@@ -14,10 +14,10 @@ in Elicit is Literature Review. If you ask a question, Elicit will show relevant
 in an easy-to-use table.
 
 
-[SciSpace](https://typeset.io/) allows you to not only search for relevant scientific literature, but to then read and better comprehend with the help of
+[SciSpace](https://typeset.io/) allows you to not only search for relevant scientific literature, but better comprehend it with the help of
 AI.
 
-Two questions I posed on SciSpace:
+Here are two questions I asked on SciSpace:
 
 - [What are the Clinical Features of Idiopathic Neuropathy](https://typeset.io/search?q=What%20are%20the%20clinical%20features%20of%20idiopathic%20peripheral%20neuropathy?)
 
