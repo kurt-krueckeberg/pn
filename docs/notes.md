@@ -40,4 +40,7 @@ controlling it. Although doctors may understand this, they don't always have muc
 
 - [Journal of the Peripheral Nervous System](https://typeset.io/journals/journal-of-the-peripheral-nervous-system-2dnirmy5)
 
+- [Europen Academy of Neurology](https://www.ean.org/home/partners-and-collaborators/subspecialty-partner-societies/pns-peripheral-nerve-society)
+
+- [Deutsche Gesellschaft für Neurologie e.V. - German Society of Neurology](https://dgn.org/)
 - [Peripheral Nerve Society](https://www.ean.org/home/partners-and-collaborators/subspecialty-partner-societies/pns-peripheral-nerve-society)
