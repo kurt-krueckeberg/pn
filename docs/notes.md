@@ -14,8 +14,7 @@ in Elicit is Literature Review. If you ask a question, Elicit will show relevant
 in an easy-to-use table.
 
 
-[SciSpace](https://typeset.io/) allows you to not only search for relevant scientific literature, but better comprehend it with the help of
-AI.
+[SciSpace](https://typeset.io/) goes even further ad uses AI to help you better comprehend articles.
 
 Here are two questions I asked on SciSpace:
 
