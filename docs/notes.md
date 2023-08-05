@@ -23,7 +23,7 @@ Two questions I posed on SciSpace:
 
 - [What are the treatment options for idiopathic neuropathy?](https://typeset.io/search?q=What%20are%20the%20treatment%20options%20for%20idiopathic%20peripheral%20neuropathy?)
 
-## What is the Problem?
+## What is my Problem?
 
 I have experienced imparied coordination in my feet and ankles and I need a walker or a cane to get around. But I also have noticed a lose of
 normal coordination in my hands.
