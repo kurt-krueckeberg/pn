@@ -2,7 +2,7 @@
 
 ## Scientific Research Aided by AI
 
-These sites use AI to help you find relevant research articles. They are currently free:
+These sites use AI to help you find relevant research articles. Both are currently free:
 
 1. [elicit.org](https://elicit.org) 
 2. [SciSpace](https://typeset.io/)
