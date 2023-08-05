@@ -38,4 +38,6 @@ controlling it. Although doctors may understand this, they don't always have muc
 
 ## Sources of Information
 
-[Journal of the Peripheral Nervous System](https://typeset.io/journals/journal-of-the-peripheral-nervous-system-2dnirmy5)
+- [Journal of the Peripheral Nervous System](https://typeset.io/journals/journal-of-the-peripheral-nervous-system-2dnirmy5)
+
+- [Peripheral Nerve Society](https://www.ean.org/home/partners-and-collaborators/subspecialty-partner-societies/pns-peripheral-nerve-society)
