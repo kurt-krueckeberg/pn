@@ -35,3 +35,7 @@ Peripheral neuropathy can result in pain. This pain can be tolerable during the 
 controlling it. Although doctors may understand this, they don't always have much to help.
 
 ..todo..
+
+## Sources of Information
+
+[Journal of the Peripheral Nervous System](https://typeset.io/journals/journal-of-the-peripheral-nervous-system-2dnirmy5)
