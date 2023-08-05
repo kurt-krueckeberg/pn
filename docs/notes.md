@@ -26,6 +26,11 @@ Two questions I posed on SciSpace:
 
 ## What is the Problem?
 
+I have experienced imparied coordination in my feet and ankles and I need a walker or a cane to get around. But I also have noticed a lose of
+normal coordination in my hands.
+
+PN has also brought experinced altered sensation and this has gotten worse in my hands...
+
 Peripheral neuropathy can result in pain. This pain can be tolerable during the day, but intolerable at night because medication is not all that great in
 controlling it. Although doctors may understand this, they don't always have much to help.
 
