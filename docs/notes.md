@@ -22,6 +22,7 @@ Here are two questions I asked on SciSpace:
 
 - [What are the treatment options for idiopathic neuropathy?](https://typeset.io/search?q=What%20are%20the%20treatment%20options%20for%20idiopathic%20peripheral%20neuropathy?)
 
+- [Is there a relationship between high arches and idiopathic peripheral neuropathy?](https://typeset.io/search?q=Is%20there%20a%20relationship%20between%20high%20arches%20and%20idiopathic%20peripheral%20neuropathy?)
 ## What is my Problem?
 
 Peripheral neuropathy has imparied coordination in my feet and ankles so I need a walker or a cane to get around. I also have noticed over the last
