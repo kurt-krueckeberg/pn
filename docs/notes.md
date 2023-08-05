@@ -43,4 +43,5 @@ controlling it. Although doctors may understand this, they don't always have muc
 - [Europen Academy of Neurology](https://www.ean.org/home/partners-and-collaborators/subspecialty-partner-societies/pns-peripheral-nerve-society)
 
 - [Deutsche Gesellschaft für Neurologie e.V. - German Society of Neurology](https://dgn.org/)
-- [Peripheral Nerve Society](https://www.ean.org/home/partners-and-collaborators/subspecialty-partner-societies/pns-peripheral-nerve-society)
+
+- [Peripheral Nerve Society](https://pnsociety.com/)
