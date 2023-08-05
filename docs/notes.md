@@ -31,6 +31,8 @@ Also of interest:
 [Emerging therapies for neuropathic pain: new molecules or new indications for old treatments?](https://typeset.io/papers/emerging-therapies-for-neuropathic-pain-new-molecules-or-new-35onfglesz)
 mentions oxcarbazepine has recetly shown to be helpful in PN pain.
 
+[Relation of Exercise and Pain in Patients with Idiopathic Distal Axonal Polyneuropathies](https://typeset.io/papers/relation-of-exercise-and-pain-in-patients-with-idiopathic-1wvbknmogh)
+
 ## What is my Problem?
 
 Peripheral neuropathy has imparied coordination in my feet and ankles so I need a walker or a cane to get around. I also have noticed over the last
