@@ -24,7 +24,6 @@ Here are two questions I asked on SciSpace:
 
 - [Is there a relationship between high arches and idiopathic peripheral neuropathy?](https://typeset.io/search?q=Is%20there%20a%20relationship%20between%20high%20arches%20and%20idiopathic%20peripheral%20neuropathy?)
 
-
 Located (among others) an article the study the relationship between [Peripheral Neuropahty and Cognitive Performance in the Elderly](https://typeset.io/papers/relationship-between-peripheral-neuropathy-and-cognitive-22jmkhi5gp)
 
 Also of interest:
