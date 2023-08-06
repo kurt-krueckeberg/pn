@@ -58,6 +58,8 @@ And I want to know I can sleep normally once I get there.
 I do have terrible back pain, I don't take narcotics, do I have to have a spinal stimulator, gizmo implanted in my lower back, to do something as simple
 as flying to Germany (or anywhere else)? 
 
+Are Elicit or SciSpace going to magically deliver the answer? Or any other the links below? There just aren't a lot of options--it seems?
+
 ## Sources of Information
 
 - [Journal of the Peripheral Nervous System](https://typeset.io/journals/journal-of-the-peripheral-nervous-system-2dnirmy5)
