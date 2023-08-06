@@ -68,8 +68,6 @@ Are Elicit or SciSpace going to magically deliver the answer? Or any other the l
 
 - [Journal of the Peripheral Nervous System](https://typeset.io/journals/journal-of-the-peripheral-nervous-system-2dnirmy5)
 
-- [Europen Academy of Neurology](https://www.ean.org/home/partners-and-collaborators/subspecialty-partner-societies/pns-peripheral-nerve-society)
-
 - [Deutsche Gesellschaft für Neurologie e.V. - German Society of Neurology](https://dgn.org/)
 
-- [Peripheral Nerve Society](https://pnsociety.com/)
+- [US Assocation for the Study of Pain](https://www.usasp.org/)
