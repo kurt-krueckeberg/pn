@@ -42,7 +42,7 @@ mentions oxcarbazepine has recetly shown to be helpful in PN pain.
 ## What is my Problem?
 
 Peripheral neuropathy has imparied coordination in my feet and ankles so I need a walker or a cane to get around. I also have noticed over the last
-several months a lose of normal coordination in my hands.
+several months a loss of normal coordination in my hands.
 
 But PN has also brought altered sensation and in the last year this has gotten worse in my hands, mainly the ends of my thumb and index finger, which are
 controlled by the mediam nerve (which happens to be the nerve compressed in carpal tunnel syndrome). This hass become the biggest problem because my
