@@ -7,6 +7,8 @@ These sites use AI to help you find relevant research articles. Both are current
 1. [elicit.org](https://elicit.org) 
 2. [SciSpace](https://typeset.io/)
 
+### Elicit.org
+
 The Elict FAQS page [explains](https://elicit.org/faq#what-is-elicit):
 
 > Elicit is a research assistant using language models like GPT-3 to automate parts of researchers’ workflows. Currently, the main workflow
@@ -14,6 +16,8 @@ in Elicit is Literature Review. If you ask a question, Elicit will show relevant
 in an easy-to-use table.
 
 See also Elicit's Youtube video: [How to use Elicit for empirical research](https://youtu.be/IYvnivEl8Hw)
+
+### SciSpace at <https://typeset.io/> 
 
 [SciSpace](https://typeset.io/) goes even further with "AI" and helps you better comprehend articles.
 
