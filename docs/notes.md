@@ -1,6 +1,6 @@
-# Notes
+# Notes on PN
 
-## Scientific Research Aided by AI
+## Finding Relevant Scientific Literature 
 
 These sites use AI to help you find relevant research articles. Both are currently free:
 
@@ -13,8 +13,9 @@ The Elict FAQS page [explains](https://elicit.org/faq#what-is-elicit):
 in Elicit is Literature Review. If you ask a question, Elicit will show relevant papers and summaries of key information about those papers
 in an easy-to-use table.
 
+See also Elicit's Youtube video: [How to use Elicit for empirical research](https://youtu.be/IYvnivEl8Hw)
 
-[SciSpace](https://typeset.io/) goes even further: it helps you better comprehend articles.
+[SciSpace](https://typeset.io/) goes even further with "AI" and helps you better comprehend articles.
 
 Here are two questions I asked on SciSpace:
 
@@ -23,6 +24,7 @@ Here are two questions I asked on SciSpace:
 - [What are the treatment options for idiopathic neuropathy?](https://typeset.io/search?q=What%20are%20the%20treatment%20options%20for%20idiopathic%20peripheral%20neuropathy?)
 
 - [Is there a relationship between high arches and idiopathic peripheral neuropathy?](https://typeset.io/search?q=Is%20there%20a%20relationship%20between%20high%20arches%20and%20idiopathic%20peripheral%20neuropathy?)
+  I knew high arches accompany chronic neuropathy but didn't know why? I'm curious to know why that is. 
 
 Located (among others) was an article the study the relationship between [Peripheral Neuropahty and Cognitive Performance in the Elderly](https://typeset.io/papers/relationship-between-peripheral-neuropathy-and-cognitive-22jmkhi5gp)
 
@@ -38,14 +40,23 @@ mentions oxcarbazepine has recetly shown to be helpful in PN pain.
 Peripheral neuropathy has imparied coordination in my feet and ankles so I need a walker or a cane to get around. I also have noticed over the last
 several months a lose of normal coordination in my hands.
 
-PN has also brought altered sensation and in the last two years this has gotten worse in my hands and has become the biggest problem.
+But PN has also brought altered sensation and in the last year this has gotten worse in my hands, mainly the ends of my thumb and index finger, which are
+controlled by the mediam nerve (which happens to be the nerve compressed in carpal tunnel syndrome). This hass become the biggest problem because my
+sleep is affected every single night. 
 
-The discomfort in my feet and lower legs worsens through the day. 
+Gabapentin is only moderated helpful. I was prescribed two 600mg a day, but I started taking and extra one at night, and it still doesn't deliver a knock
+blow to these altered sensations in my fingertip. Since I also have an Rx for pregabalin (Lyrica) I am also taking that at night. One doctor told me
+not to take both. But I don't care. I'm want to sleep normal, not begin my day at 4am or 2:30am.
 
-Peripheral neuropathy can result in pain. This pain can be tolerable during the day, but intolerable at night because medication is not all that great in
-controlling it. Although doctors may understand this, they don't always have much to help.
+However, both of these medications make my dry eye worse, and I hate that. I can't enjoy reading. I'm trying to have as normal a life as possible and 
+they side effects are worsing my occular surface disease. They make you tired as well. If I take two gabapentin (one taken in the evening
+or at bedtime, and then another around 3 or 4 or 5am) and a 75mg pregablin at bedtime, I not clear headed until about 1pm. 
 
-..todo..
+So what I really want is to be able to go to Germany and know I won't experience terrible discomfort in my lower legs and feet from sitting for hours.
+And I want to know I can sleep normally once I get there. 
+
+I do have terrible back pain, I don't take narcotics, do I have to have a spinal stimulator, gizmo implanted in my lower back, to do something as simple
+as flying to Germany (or anywhere else)? 
 
 ## Sources of Information
 
