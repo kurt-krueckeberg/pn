@@ -44,19 +44,19 @@ But PN has also brought altered sensation and in the last year this has gotten w
 controlled by the mediam nerve (which happens to be the nerve compressed in carpal tunnel syndrome). This hass become the biggest problem because my
 sleep is affected every single night. 
 
-Gabapentin is only moderated helpful. I was prescribed two 600mg a day, but I started taking and extra one at night, and it still doesn't deliver a knock
-blow to these altered sensations in my fingertip. Since I also have an Rx for pregabalin (Lyrica) I am also taking that at night. One doctor told me
-not to take both. But I don't care. I'm want to sleep normal, not begin my day at 4am or 2:30am.
+Gabapentin is only moderated helpful. I was prescribed two 600mg a day, but I started taking and extra one at night, and it still didn't do enough.
+I also have an Rx for pregabalin (Lyrica) I am also taking that at night. One doctor told me
+not to take both. But I don't care. I'm just wanting to sleep normally, not begin my day at 4am or 2:30am.
 
-However, both of these medications make my dry eye worse, and I hate that. I can't enjoy reading. I'm trying to have as normal a life as possible and 
-they side effects are worsing my occular surface disease. They make you tired as well. If I take two gabapentin (one taken in the evening
-or at bedtime, and then another around 3 or 4 or 5am) and a 75mg pregablin at bedtime, I not clear headed until about 1pm. 
+However, both of these medications make my dry eye worse. They make my eyes more uncomfortable and I can't enjoy reading. I'm trying to have as normal
+a life as possible and they side effects are worsing my occular surface disease. They make you tired, too. If I take two gabapentin (one taken in the evening
+or at bedtime, and then another around 3 or 4 or 5am) and a 75mg pregablin at bedtime, I not clear-headed until about 1pm. 
 
 So what I really want is to be able to go to Germany and know I won't experience terrible discomfort in my lower legs and feet from sitting for hours.
-And I want to know I can sleep normally once I get there. 
+And I want to know I can sleep normally once I get there. I want to be able to use the computer without my right hand bothering me,
 
-I do have terrible back pain, I don't take narcotics, do I have to have a spinal stimulator, gizmo implanted in my lower back, to do something as simple
-as flying to Germany (or anywhere else)? 
+I do have terrible back pain, I don't take narcotics. Do I have to have to get a spinal stimulator, a gizmo implanted in my lower back that I might feel,
+in order to do something as "simple" as flying to Germany (or anywhere else) and using my hands normally (normal for me) without worse dry eye? 
 
 Are Elicit or SciSpace going to magically deliver the answer? Or any other the links below? There just aren't a lot of options--it seems?
 
