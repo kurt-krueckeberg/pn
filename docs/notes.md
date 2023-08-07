@@ -20,7 +20,7 @@ Elicit has a Youtube video on: [How to use Elicit for empirical research](https:
 
 ### SciSpace at <https://typeset.io/> 
 
-[SciSpace at https://typeset.io](https://typeset.io/) goes further with "AI" to help you better comprehend articles it finds. For example,
+[SciSpace at https://typeset.io](https://typeset.io/) goes further to help you better comprehend articles it finds. For example,
 here are two questions I asked on SciSpace:
 
 - [What are the Clinical Features of Idiopathic Neuropathy](https://typeset.io/search?q=What%20are%20the%20clinical%20features%20of%20idiopathic%20peripheral%20neuropathy?)
@@ -40,7 +40,7 @@ mentions oxcarbazepine has recetly shown to be helpful in PN pain.
 
 [Relation of Exercise and Pain in Patients with Idiopathic Distal Axonal Polyneuropathies](https://typeset.io/papers/relation-of-exercise-and-pain-in-patients-with-idiopathic-1wvbknmogh)
 
-## What is my Problem?
+## But is it Really Relevant?
 
 Peripheral neuropathy has imparied coordination in my feet and ankles so I need a walker or a cane to get around. I also have noticed over the last
 several months a loss of normal coordination in my hands.
