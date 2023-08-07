@@ -45,7 +45,7 @@ mentions oxcarbazepine has recetly shown to be helpful in PN pain.
 Peripheral neuropathy has imparied coordination in my feet and ankles so I need a walker or a cane to get around. I also have noticed over the last
 several months loss of completely normal coordination in my hands.
 
-But PN has also brought altered sensation and in the last year it has gotten worse in my hands. This hass become the biggest problem because my
+But PN has also brought altered sensation and in the last year it has gotten worse in my hands. This has become the biggest problem because my
 sleep is affected every single night. I'm taking a combination of gabapentin and lyrica, something I was told not to do. But I don't care.
 I'm just wanting to sleep normally, not begin my day at 4am or 2:30am.I don't like taking these medications because they make by already bad dry
 eye worse. I cant readily read for pleasure anymore. And they are only moderately effective.
