@@ -43,7 +43,7 @@ mentions oxcarbazepine has recetly shown to be helpful in PN pain.
 ## But is it Really Relevant?
 
 Peripheral neuropathy has imparied coordination in my feet and ankles so I need a walker or a cane to get around. I also have noticed over the last
-several months a loss of normal coordination in my hands.
+several months loss of completely normal coordination in my hands.
 
 But PN has also brought altered sensation and in the last year it has gotten worse in my hands. This hass become the biggest problem because my
 sleep is affected every single night. I'm taking a combination of gabapentin and lyrica, something I was told not to do. But I don't care.
