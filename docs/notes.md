@@ -2,26 +2,26 @@
 
 ## Finding Relevant Scientific Literature 
 
-These sites use AI to help you find relevant research articles. Both are currently free:
+To help you find the most relevant researh articles these sites use artifical intelligence (ChatGPT and likely special types of databases
+). Both are currently free:
 
 1. [elicit.org](https://elicit.org) 
 2. [SciSpace](https://typeset.io/)
 
 ### Elicit.org
 
-The Elict FAQS page [explains](https://elicit.org/faq#what-is-elicit):
+The Elict [FAQS page](https://elicit.org/faq#what-is-elicit) explains that
 
 > Elicit is a research assistant using language models like GPT-3 to automate parts of researchers’ workflows. Currently, the main workflow
 in Elicit is Literature Review. If you ask a question, Elicit will show relevant papers and summaries of key information about those papers
 in an easy-to-use table.
 
-See also Elicit's Youtube video: [How to use Elicit for empirical research](https://youtu.be/IYvnivEl8Hw)
+Elicit has a Youtube video on: [How to use Elicit for empirical research](https://youtu.be/IYvnivEl8Hw)
 
 ### SciSpace at <https://typeset.io/> 
 
-[SciSpace](https://typeset.io/) goes even further with "AI" and helps you better comprehend articles.
-
-Here are two questions I asked on SciSpace:
+[SciSpace at https://typeset.io](https://typeset.io/) goes further with "AI" to help you better comprehend articles it finds. For example,
+here are two questions I asked on SciSpace:
 
 - [What are the Clinical Features of Idiopathic Neuropathy](https://typeset.io/search?q=What%20are%20the%20clinical%20features%20of%20idiopathic%20peripheral%20neuropathy?)
 
@@ -30,7 +30,8 @@ Here are two questions I asked on SciSpace:
 - [Is there a relationship between high arches and idiopathic peripheral neuropathy?](https://typeset.io/search?q=Is%20there%20a%20relationship%20between%20high%20arches%20and%20idiopathic%20peripheral%20neuropathy?)
   I knew high arches accompany chronic neuropathy but didn't know why? I'm curious to know why that is. 
 
-Located (among others) was an article the study the relationship between [Peripheral Neuropahty and Cognitive Performance in the Elderly](https://typeset.io/papers/relationship-between-peripheral-neuropathy-and-cognitive-22jmkhi5gp)
+Located among other articles was a study of the relationship between [Peripheral Neuropahty and Cognitive Performance in the Elderly](https://typeset.io/papers/relationship-between-peripheral-neuropathy-and-cognitive-22jmkhi5gp)
+with a rather depressing conclusion.
 
 Also of interest:
 
@@ -44,25 +45,30 @@ mentions oxcarbazepine has recetly shown to be helpful in PN pain.
 Peripheral neuropathy has imparied coordination in my feet and ankles so I need a walker or a cane to get around. I also have noticed over the last
 several months a loss of normal coordination in my hands.
 
-But PN has also brought altered sensation and in the last year this has gotten worse in my hands, mainly the ends of my thumb and index finger, which are
-controlled by the mediam nerve (which happens to be the nerve compressed in carpal tunnel syndrome). This hass become the biggest problem because my
-sleep is affected every single night. 
+But PN has also brought altered sensation and in the last year it has gotten worse in my hands. This hass become the biggest problem because my
+sleep is affected every single night. I'm taking a combination of gabapentin and lyrica, something I was told not to do. But I don't care.
+I'm just wanting to sleep normally, not begin my day at 4am or 2:30am.I don't like taking these medications because they make by already bad dry
+eye worse. I cant readily read for pleasure anymore. And they are only moderately effective.
 
-Gabapentin is only moderated helpful. I was prescribed two 600mg a day, but I started taking and extra one at night, and it still didn't do enough.
-I also have an Rx for pregabalin (Lyrica) I am also taking that at night. One doctor told me
-not to take both. But I don't care. I'm just wanting to sleep normally, not begin my day at 4am or 2:30am.
+No one told me to take a gabapentin in the evening (or at bedtime), then a pregabalin (Lyrica) at bedtime, then, when I inevitably wake up with 
+soreness at the end of my fingers, to take another gabapentin. I still struggle to sleep because of this "soreness" mostly the end of my index finger and
+thumb, mainly my right hand. This is problem is worse in direct proportion to how much (and it doesn't take much) I do things like keyboard
+typing. 
 
-However, both of these medications make my dry eye worse. They make my eyes more uncomfortable and I can't enjoy reading. I'm trying to have as normal
-a life as possible and they side effects are worsing my occular surface disease. They make you tired, too. If I take two gabapentin (one taken in the evening
-or at bedtime, and then another around 3 or 4 or 5am) and a 75mg pregablin at bedtime, I not clear-headed until about 1pm. 
+These medications also make you tired.
+ 
+So what I really want is to be able to go to Germany and know I won't experience terrible discomfort in my lower legs from sitting for hours on the plane.
+I want to know I can sleep normally once I get there. I want to be able to use the computer without my right hand bothering me.
 
-So what I really want is to be able to go to Germany and know I won't experience terrible discomfort in my lower legs and feet from sitting for hours.
-And I want to know I can sleep normally once I get there. I want to be able to use the computer without my right hand bothering me,
+However, I do not have terrible back pain; I don't take narcotics. Do I have to have to get a spinal stimulator, a gizmo implanted in my lower back that I
+might constantly feel, in order to do something as "simple" as flying to Germany (or anywhere else) or to use my hands normally without worse dry eye or
+feeling tired? 
 
-I do have terrible back pain, I don't take narcotics. Do I have to have to get a spinal stimulator, a gizmo implanted in my lower back that I might feel,
-in order to do something as "simple" as flying to Germany (or anywhere else) and using my hands normally (normal for me) without worse dry eye? 
+And it seems, if I a deemed a candidate for a spinal stimulator, and undergo all the discomfort of undergoing the one week trial, it isn't guarantted to work
+no matter how badly one wants it to.
 
-Are Elicit or SciSpace going to magically deliver the answer? Or any other the links below? There just aren't a lot of options--it seems?
+Are Elicit or SciSpace going to magically deliver the answer of what to do? Or any of other the links below? There just aren't a lot of options--it seems?
+I just want to get on with life. 
 
 ## Sources of Information
 
