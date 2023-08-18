@@ -64,16 +64,22 @@ However, I do not have terrible back pain; I don't take narcotics. Do I have to 
 might constantly feel, in order to do something as "simple" as flying to Germany (or anywhere else) or to use my hands normally without worse dry eye or
 feeling tired? 
 
-And it seems, if I a deemed a candidate for a spinal stimulator, and undergo all the discomfort of undergoing the one week trial, it isn't guarantted to work
+It seems, if I a deemed a candidate for a spinal stimulator, and undergo all the discomfort of undergoing the one week trial, it isn't guarantted to work
 no matter how badly one wants it to.
 
 Are Elicit or SciSpace going to magically deliver the answer of what to do? Or any of other the links below? There just aren't a lot of options--it seems?
 I just want to get on with life. 
 
-## Sources of Information
+## Articles found uinsg [SciSpace](https://typeset.io)
 
-- [Journal of the Peripheral Nervous System](https://typeset.io/journals/journal-of-the-peripheral-nervous-system-2dnirmy5)
+* [Treatment of peripheral neuropathy: a multidisciplinary approach is necessary](https://typeset.io/papers/treatment-of-peripheral-neuropathy-a-multidisciplinary-4h9rq0o1jz)
+  - Copilot results (on contributions of article): \
+  It argues that peripheral neuropathy is not limited to a specific department and requires a combination of drug therapy, physical exercise, and psychological support for the most appropriate treatment.
+  - 2020
+  - Journal of Korean Medicine
+* [Chronic Pain in Peripheral Neuropathy](https://typeset.io/papers/chronic-pain-in-peripheral-neuropathy-4am0a3y9qc)
+  - **TL;DR:** In this paper, a systematic review of the literature has reached a consensus that tricyclic antidepressants (TCAs), serotonin-norepinephrine reuptake inhibitors (SNRIs), and gabapentinoids are efficacious for the treatment of neuropathic pain.
+  - My notes: I mentions knowing the patient's "pain phenotype" is important.
+  - 31 Dec 2020
+  - Book chapter in book on (chronic pain?)
 
-- [Deutsche Gesellschaft für Neurologie e.V. - German Society of Neurology](https://dgn.org/)
-
-- [US Assocation for the Study of Pain](https://www.usasp.org/)

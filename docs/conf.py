@@ -35,3 +35,7 @@ html_theme = 'sphinx_book_theme'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_static_path = ['_static']
+
+html_css_files = [
+   'custom.css',
+]
