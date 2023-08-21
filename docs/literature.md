@@ -14,7 +14,7 @@ Some relevant articles, reports, link.
     awakened by pain] getting back to sleep is not an option."
 > - "Page 7: Patient perspectives on Pain"
 
-## Articles Found Using SciSpace at <https://typeset.io/> 
+## Articles Found Using [SciSpace](https://typeset.io/)
 
 [SciSpace at https://typeset.io](https://typeset.io/) goes further to help you better comprehend articles it finds. For example,
 here are two questions I asked on SciSpace:
