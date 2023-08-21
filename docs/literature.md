@@ -4,13 +4,14 @@ Some relevant articles, reports, link.
 
 - [The Voice of the Patient: Neuropathic Pain Associated with Peripheral Neuropathy](https://www.fda.gov/files/about%20fda/published/The-Voice-of-the-Patient--Neuropathic-Pain-Associated-with-Peripheral-Neuropathy.pdf)
   - Page 7: Patient perspectives on **Pain** describe _burning_, _numberness and tingling_, _electrical shock-like pain_, _stabbing pain_ ... and so on, including
- {attribution="Page 7: Patient perspectives on Pain"}
+
 >  **sleep disturbance**:
     Several participants described issues with inconsistent sleep patterns and insomnia due to
     neuropathic pain. Many participants credited their lack of sleep to painful sensations occurring
     throughout the night. One participant noted, “Pain often wakes me very early, and as this has
     become a nightly experience, I now dread going to bed.” Another participant stated, “[once
     awakened by pain] getting back to sleep is not an option."
+> - "Page 7: Patient perspectives on Pain"}
 
 ## Articles Found Using SciSpace at <https://typeset.io/> 
 
