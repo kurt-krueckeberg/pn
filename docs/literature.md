@@ -16,8 +16,9 @@ Some relevant articles, reports, link.
 
 ## Articles Found Using [SciSpace](https://typeset.io/)
 
-[SciSpace at https://typeset.io](https://typeset.io/) goes further to help you better comprehend articles it finds. For example,
-here are two questions I asked on SciSpace:
+### Initial Search Results
+
+Initially I searched [SciSpace at https://typeset.io](https://typeset.io/) asking these questions:
 
 - [What are the Clinical Features of Idiopathic Neuropathy](https://typeset.io/search?q=What%20are%20the%20clinical%20features%20of%20idiopathic%20peripheral%20neuropathy?)
 
@@ -27,16 +28,16 @@ here are two questions I asked on SciSpace:
   I knew high arches accompany chronic neuropathy but didn't know why? I'm curious to know why that is. 
 
 Located among other articles was a study of the relationship between [Peripheral Neuropahty and Cognitive Performance in the Elderly](https://typeset.io/papers/relationship-between-peripheral-neuropathy-and-cognitive-22jmkhi5gp)
-with a rather depressing conclusion.
+with a rather depressing conclusion. Who wants to find that?
 
 Also of interest:
 
 [Emerging therapies for neuropathic pain: new molecules or new indications for old treatments?](https://typeset.io/papers/emerging-therapies-for-neuropathic-pain-new-molecules-or-new-35onfglesz)
-mentions oxcarbazepine has recetly shown to be helpful in PN pain.
+mentions Oxcarbazepine has recetly shown to be helpful in PN pain.
 
 [Relation of Exercise and Pain in Patients with Idiopathic Distal Axonal Polyneuropathies](https://typeset.io/papers/relation-of-exercise-and-pain-in-patients-with-idiopathic-1wvbknmogh)
 
-## Articles found uinsg [SciSpace](https://typeset.io)
+### Further Search Results on [SciSpace](https://typeset.io)
 
 * [Treatment of peripheral neuropathy: a multidisciplinary approach is necessary](https://typeset.io/papers/treatment-of-peripheral-neuropathy-a-multidisciplinary-4h9rq0o1jz)
   - Copilot results (on contributions of article): \
@@ -45,7 +46,7 @@ mentions oxcarbazepine has recetly shown to be helpful in PN pain.
   - Journal of Korean Medicine
 * [Chronic Pain in Peripheral Neuropathy](https://typeset.io/papers/chronic-pain-in-peripheral-neuropathy-4am0a3y9qc)
   - **TL;DR:** In this paper, a systematic review of the literature has reached a consensus that tricyclic antidepressants (TCAs), serotonin-norepinephrine reuptake inhibitors (SNRIs), and gabapentinoids are efficacious for the treatment of neuropathic pain.
-  - My notes: It mentions knowing the patient's "pain phenotype" is important. Phenotype means
+  \- My notes: It mentions knowing the patient's "pain phenotype" is important. Phenotype means
   - 31 Dec 2020
   - Book chapter in book on (chronic pain?)
 * [Causes of neuropathy in patients referred as "idopathic neuropathy](https://typeset.io/papers/causes-of-neuropathy-in-patients-referred-as-idiopathic-279n1jeco1)
