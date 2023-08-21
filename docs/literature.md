@@ -39,6 +39,11 @@ mentions Oxcarbazepine has recetly shown to be helpful in PN pain.
 
 ### Further Search Results on [SciSpace](https://typeset.io)
 
+:::{Note}
+The abbreviation **TL;DR** used before stands for: "Too Long; Didn't Read".
+SciSpace uses **TD;DR** before its synopsis of an article.
+:::
+
 * [Treatment of peripheral neuropathy: a multidisciplinary approach is necessary](https://typeset.io/papers/treatment-of-peripheral-neuropathy-a-multidisciplinary-4h9rq0o1jz)
   - Copilot results (on contributions of article): \
   It argues that peripheral neuropathy is not limited to a specific department and requires a combination of drug therapy, physical exercise, and psychological support for the most appropriate treatment.
