@@ -10,7 +10,8 @@ Welcome to Peripheral Neuropathy Notes's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   notes.md
+   intro.md
+   literature.md
 
 Indices and tables
 ==================
