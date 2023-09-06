@@ -1,4 +1,4 @@
 docs/_build
 *.swp
 .*.swp
-d
+*.html
