@@ -1,8 +1,10 @@
-I had something unusual happen Wednesday morning, Sept 6h. Right after I finished with my online German lesson, the assistant to Erin Richmond called.
-Erin is the nurse practitioner at Parkview that I'm seeing. Her "assistant"  wanted to find what medications I'm taking. Am I taking both pregabalin (Lyrica)
-and gabapentin. Dr. Karl had prescribed pregabalin in June, when we met to talk about the upcoming genicular nerve ablation of my right knee. 
+Wednesday morning, Sept 6h, immediately after an online German lesson, the assistant to Erin Richmond NP (and likely others) of Parkview Neurology called.
+I saw Erin on June 30th, 2023, and again on August 20th, which was only half an appointment because I was late. The "assistant"  wanted to find what
+medications I'm taking. Am I taking both pregabalin (Lyrica) and gabapentin?
 
-I saw Dr Karl Sept 1st about the possibility of spinal cord stimulator. He wanted me first to try protriptyline 10mg because I told him
+Dr. Karl had prescribed pregabalin in June, when we met before the genicular nerve ablation of my right knee, which occurred in mid July. 
+
+I saw Dr Karl, on Sept 1st, too, to talkt the possibility of spinal cord stimulator. He wanted me first to try protriptyline 10mg because I told him
 Amytripline caused terrible heatburn and nortriptyline made me wired.
 
 I had a 2nd appt with Erin August 3oth, but it was only a "half appointment" because I wasn't on time. I told her Dr. Austin had recommended
