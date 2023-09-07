@@ -9,7 +9,7 @@ Amytripline caused terrible heatburn and nortriptyline made me wired.
 
 I had a 2nd appt with Erin August 3oth, but it was only a "half appointment" because I wasn't on time. I told her Dr. Austin had recommended
 I see Dr. Karl about the spinal cord stimulator because I already was an established patient of Dr Karl. But I couldn't get in to see
-Dr. Karl until September 1st. She said to keep them update on that appointed, which I did using MyChart.
+Dr. Karl until September 1st. She said to keep them update on that appointed, which I did using MyChart.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3459228/
 
 You know, I don't really want to be going to two "doctors" for the same problem--getting two different medications from each. I think the reason
 for the call was to inquire if I was taking both Lyrica and Gabapentin. I had experimented with lyrical at bedtime--in addition the the gabapetin--
@@ -27,3 +27,5 @@ The doctor will not even examine you. You must do your own research and even buy
 levels. Such devices are available in any drug store. His experience was very interesting. He even described a website where you can
 rate your doctor. This website is affliated with the German equivalent of the AMA. If a doctor is "reviewed" unfavorably it
 could eventually result his or her medical suspension.
+
+[The Role of Medications in Causing Dry Eye](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3459228/).
