@@ -4,7 +4,7 @@ medications I'm taking. Am I taking both pregabalin (Lyrica) and gabapentin?
 
 Dr. Karl had prescribed pregabalin in June, when we met before the genicular nerve ablation of my right knee, which occurred in mid July. 
 
-I saw Dr Karl, on Sept 1st, too, to talkt the possibility of spinal cord stimulator. He wanted me first to try protriptyline 10mg because I told him
+I saw Dr Karl, on Sept 1st, too, to talk the possibility of spinal cord stimulator. He wanted me first to try protriptyline 10mg because I told him
 Amytripline caused terrible heatburn and nortriptyline made me wired.
 
 I had a 2nd appt with Erin August 3oth, but it was only a "half appointment" because I wasn't on time. I told her Dr. Austin had recommended
