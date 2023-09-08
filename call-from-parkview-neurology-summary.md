@@ -32,3 +32,11 @@ could eventually result his or her medical suspension.
 
 [Cleveland Clinic article on Periperhal Neuropathy](https://my.clevelandclinic.org/health/diseases/14737-peripheral-neuropathy#management-and-treatment).
 [FDA Approve Spinal Cord Stimulator for Diabetic PN](https://www.painnewsnetwork.org/stories/2021/7/27/nbsp-fda-approves-spinal-cord-stimulator-for-diabetic-neuropathy)
+
+A reader commented on above article:
+
+> I don't believe this hype about another spinal stimulator. I've personally witnessed the harm these implanted machines cause from involuntary
+electrocution to explosion. I have not witnessed any positive results. Again, it's advocacy for profit. We are now wise to the methods of these
+psychopaths of creating profit at the expense of the desperately ill under the guise of some kind of medical altruism. The questions remain.
+How many more pain patients have to die before it's been enough? How are we going to convince the psychopaths to allow us enough medication
+legally to live? If the Mexican cartel is going to supply the pain patients that are left alive with medication as the DEA is reported to say, then where is the medication? Will all types be available? Not everyone can take or be relieved by fentanyl. These psychopaths are likely total sadist as well and there may be no end to this insanity.
