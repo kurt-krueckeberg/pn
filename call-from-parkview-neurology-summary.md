@@ -29,3 +29,6 @@ rate your doctor. This website is affliated with the German equivalent of the AM
 could eventually result his or her medical suspension.
 
 [The Role of Medications in Causing Dry Eye](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3459228/).
+
+[Cleveland Clinic article on Periperhal Neuropathy](https://my.clevelandclinic.org/health/diseases/14737-peripheral-neuropathy#management-and-treatment).
+[FDA Approve Spinal Cord Stimulator for Diabetic PN](https://www.painnewsnetwork.org/stories/2021/7/27/nbsp-fda-approves-spinal-cord-stimulator-for-diabetic-neuropathy)
