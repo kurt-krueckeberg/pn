@@ -9,7 +9,7 @@ she had concerns that I was mixing medications from two doctors--who knows?
 
 ## Background to the Call
 
-I first met Erin Richmond NP for first time ever, on June 30th, when I established care with Parkview Neurology. The scheduler never scheduled me to
+I first met Erin Richmond NP for the first time, on June 30th, when I established care with Parkview Neurology. The scheduler never scheduled me to
 see a Parkview neurologists. At that first appointment with Erin, I told her gabapentin and pregabalin "worsened my dry eye, made my eys uncomfortable, and made reading
 for pleasure, something I love, nearly impossible" and "it made me stupid". That is the gist of what I said. She then referred me to to Dr. Ausin, a
 Parkview Pain Management physician, to discuss whterh a spinal stimulator was an option.
