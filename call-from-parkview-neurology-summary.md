@@ -24,7 +24,7 @@ peripheral neuropathy patients had been helped by such a device (she didn't say 
 
 I was diagnosed on June 28, 2021 with severe polyneuropathy and told two days later by Credo Medicine I needed to follow up with a neurologist for ongonig care. 
 
-I was able to see Dr Austin three days after Erin Richmond referred me to him, on Jly 3rd, 2023. Dr. Austin told me that since I was an established patient
+I was able to see Dr Austin three days after Erin Richmond referred me to him, on July 3rd, 2023. Dr. Austin told me that since I was an established patient
 of Dr. Karl, who also did spinal stimulator implantation and who Dr. Austin said, "was equivaltent to me", I should follow up with Dr. Karl.
 Unfortunately the earliest I could get in to see Dr Karl was in two months, on September 1st. 
 
