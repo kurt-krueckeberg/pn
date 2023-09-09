@@ -10,7 +10,7 @@ Kurt was mixing medications from two providers and he needed to be called and qu
 I now don't really see much point in going both to a neurologist (or NP in a neurolgy practice). Pain doctors prescribe gabapentin and pregabalin, which
 apparently are the only two drugs neuruolgy practices prescribe--althouh Dr. Baht did prescribe amytriptyline some months ago after I told night time
 pain in my fingers and finger tips was ruining my sleep. Amytriptyline gave me terrible heartburn, and like all tricyclic antidepressants made my
-dry eye worse. Gabapentin and pregablin also make my dyr eye worse. Even before getting on any medication for neuropathy pain, I never have been able 
+dry eye worse. Gabapentin and pregablin also make my dry eye worse. Even before getting on any medication for neuropathy pain, I never have been able 
 to sleep through the night without putting in vicous eye drops.
 
 ## Background to the Call
@@ -18,7 +18,8 @@ to sleep through the night without putting in vicous eye drops.
 I first met Erin Richmond NP for the first time, on June 30th, when I established care with Parkview Neurology. The Parkview Neurology appointment scheduler
 never scheduled me too see a Parkview neurologist. At that first appointment with Erin, I told her gabapentin and pregabalin "worsened my dry eye, made
 my eyes uncomfortable to the point that reading for pleasure, something I love, was nearly impossible" and "it made me stupid". That is the gist of what I
-said. So she then referred me to to Dr. Ausin, a Parkview Pain Management physician, to discuss whether a spinal stimulator was an option. She said some
+said. So she then referred me to to Dr. Ausin, a Parkview Pain Management physician, to discuss whether a spinal stimulator was an option. I was thnakful
+I was being considered for another option (but not crazy about having wires and a battery pack installed in my back). She said some
 peripheral neuropathy patients had been helped by such a device (she didn't say how much).
 
 I was diagnosed on June 28, 2021 with severe polyneuropathy and told two days later by Credo Medicine I need to see a neurologist for ongonig care. 
