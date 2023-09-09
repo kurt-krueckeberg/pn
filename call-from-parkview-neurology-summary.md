@@ -7,11 +7,11 @@ Parkview system.")
 I think Megan, the Parkview Neurology staff assitant, had called me to find out what medications Dr. Karl had prescribed on September 1st Maybe
 Kurt was mixing medications from two providers and he needed to be called and questioned.
 
-And I now don't really see much point in going to neurologist (or NP in a neurolgy practice). Pain doctors prescribe gabapentin and pregabalin, which
-apparently are the only two drugs neruolgy practices prescribe--althouh Dr. Baht did prescribe amytriptyline onths ago after I told night time
-pain in my fingers and finger tip was ruining my sleep. Amytriptyline gave me terrible heartburn. And like all tricyclic antidepressants made my
-dry eye worse. Gabapentin and pregablin also make my dyr eye worse. Even before getting on any medication for neuropathy pain, I never am able 
-to sleep through the night without putting vicous eye drops in. 
+I now don't really see much point in going both to a neurologist (or NP in a neurolgy practice). Pain doctors prescribe gabapentin and pregabalin, which
+apparently are the only two drugs neuruolgy practices prescribe--althouh Dr. Baht did prescribe amytriptyline some months ago after I told night time
+pain in my fingers and finger tips was ruining my sleep. Amytriptyline gave me terrible heartburn, and like all tricyclic antidepressants made my
+dry eye worse. Gabapentin and pregablin also make my dyr eye worse. Even before getting on any medication for neuropathy pain, I never have been able 
+to sleep through the night without putting in vicous eye drops.
 
 ## Background to the Call
 
