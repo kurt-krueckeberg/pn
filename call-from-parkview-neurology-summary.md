@@ -1,10 +1,16 @@
 Wednesday morning, Sept 6h, the assistant to the medical staff at  Parkview Neurology called. I had a follow up appointment the Wednesday before, on August 30th, with
-Erin Richmond NP, who I seen for first time ever, on June 30th, when I established care with Parkview Neurology. I didn't see a neurologist.
+Erin Richmond NP, who I seen for first time ever, on June 30th, when I established care with Parkview Neurology. They appointment was never scheduled to
+include seeing one of the Parkview neurologists.
 
-The appointment two and half weeks ago was very brief, half an appointment really, because I was fifteen minutes late. It told her that when I saw Dr. Austin, to
-whom she referred me at the end of June, he told me, since I was established patient of Dr. Karl, who also did spinal stimulator implatation, it was
-best to followup with him. Dr Austin and I did discuss the medications used to treat neuropathy pain. He said that four main medications: gabapentin,
-pregabapion (Lyrica), Cymbalta, and--I belive--amitriptyline. 
+I was able to see Dr Austin three days after Richmond referred me to him. Dr. Austin told me that since I was an established patient of Dr. Karl, who also did
+spinal stimulator implatation, and who Dr. Autin said was "equivaltent to me", I really should follow up with him. Unfortunetly, the earliest I could get in to see
+Dr Karl (to discuss whether spinal cord stimulation was a realistic option for my pain) was September 1st. Dr Austin also told me that the four
+main medications to treat peripheral neuropathy pain.
+
+The appointment two and half weeks ago was very brief, half an appointment really, because I was fifteen minutes late. It told her that when I saw 
+
+At the July 3rd appoint with with Dr Austin, he and I discusses what medications are used to treat neuropathy pain. He said that their are four main
+medications: gabapentin, pregabapion (Lyrica), Cymbalta, and--I belive--amitriptyline. 
 
 I saw Dr Karl, on Sept 1st, too, to talk the possibility of spinal cord stimulator. He wanted me first to try protriptyline 10mg because I told him
 Amytripline caused terrible heatburn and nortriptyline made me wired.
