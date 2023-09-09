@@ -9,10 +9,14 @@ she had concerns that I was mixing medications from two doctors--who knows?
 
 ## Background to the Call
 
-I first met Erin Richmond NP for the first time, on June 30th, when I established care with Parkview Neurology. The scheduler never scheduled me to
-see a Parkview neurologists. At that first appointment with Erin, I told her gabapentin and pregabalin "worsened my dry eye, made my eys uncomfortable, and made reading
-for pleasure, something I love, nearly impossible" and "it made me stupid". That is the gist of what I said. She then referred me to to Dr. Ausin, a
-Parkview Pain Management physician, to discuss whterh a spinal stimulator was an option.
+I first met Erin Richmond NP for the first time, on June 30th, when I established care with Parkview Neurology. The Parkview Neurology appointment scheduler
+never scheduled me one of the Parkview neurologists. At that first appointment with Erin, I told her gabapentin and pregabalin "worsened my dry eye, made
+my eyes uncomfortable to the point that reading for pleasure, something I love, was nearly impossible" and "it made me stupid". That is the gist of what I
+said. She then referred me to to Dr. Ausin, a Parkview Pain Management physician, to discuss whether a spinal stimulator was an option. She said it had
+helped some peripheral neuropathy patients.
+
+I was diagnosed on June 28, 2021 with severe polyneuropathy and told two days later by Credo Medicine I need to see a neurologist for ongonig care. 
+I now know that I could just have well gone to a pain doctor.
 
 I was able to see Dr Austin three days after Richmond referred me to him. Dr. Austin told me that since I was an established patient of Dr. Karl, who also did
 spinal stimulator implatation, and who Dr. Autin said was "equivaltent to me", I really should follow up with him. Unfortunetly, the earliest I could get in to see
