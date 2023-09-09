@@ -28,7 +28,22 @@ I was able to see Dr Austin three days after Erin Richmond referred me to him, o
 of Dr. Karl, who also did spinal stimulator implantation and who Dr. Austin said, "was equivaltent to me", I should follow up with Dr. Karl.
 Unfortunately the earliest I could get in to see Dr Karl was in two months, on September 1st. 
 
-Dr Austin also told me that the four main medications to treat peripheral neuropathy pain were  gabapentin, pregabapion (Lyrica), Cymbalta, and--I belive--amitriptyline. 
+Dr Austin also told me that the four main medications to treat peripheral neuropathy pain were  gabapentin, pregabapion (Lyrica), Cymbalta, and--I belive--amitriptyline.
+He said pregabalin was "a step up." But I haven't found it much different that gabapentin. 
+
+After seeing Dr. Austin, I picked up the prescription that Dr, Karl had written for Lysica back in mid June, when I had a consultation prior to the
+genicular nerve ablation of my right knee that took place in mid July. During that appointment I had asked him about the differene between Lyrcia and
+gabapentin. I don't remember what he said. I think he first tried gabapentin with patients. He then wrote an Rx for Lyrica and said, "pick it up if 
+want to try it." So I went and picked up the Lyrica (but did so only after the July 3rd appointment with Dr. Austin). Lyrica made my eyes dry. Yuck.
+Dry eye isn't dry skin that is helped with hand lotion. Eye drops don't retore eye comfort, except briefly.
+
+So if you have bad dry eye like me, you don't want to take any medications that make it worse like those I am taking for neuropathy or for sleep
+related neuropathy pain that is a big, big problem.
+
+Back in mid August I talked all this over with Dr. Moran, my primary care doctor. He said it was too bad that amitriptyline caused heartburn since
+it is a go-to medication for pain and the dosage can also be increased as needed. He also said, "I wouldn't see Dr. Austin. He tries to get people
+off of medications." He mentioned his dad was seeing Dr. Barr (for, I think, compression fractures? in his back), and he had good things to say
+about Dr. Barr, who is with ONE.
 
 The appointment with Erin Richmond NO, on Agusut 30th, was supposed to be about what Dr. Austin said ("see Dr. Karl") but it was very brief,
 reallu just half an appointment, because I was fifteen minutes late. It told her that would see saw Dr Karl in two days, on Sept 1st.
