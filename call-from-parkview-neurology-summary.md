@@ -8,7 +8,7 @@ I think Megan had called me to find out what medications I Dr. Karl had Dr. Karl
 she had concerns that I was mixing medications from two providers--who knows?
 
 And I now don't really see much point in going to neurologist (or NP in a neurolgy practice). Pain doctors prescribe gabapentin and pregabalin, which
-apparently are the only two drugs neruolgy practices prescript--althouh Dr. Baht did prescribe amytriptyline onths ago after I told night time
+apparently are the only two drugs neruolgy practices prescribe--althouh Dr. Baht did prescribe amytriptyline onths ago after I told night time
 pain in my fingers and finger tip was ruining my sleep. Amytriptyline gave me terrible heartburn. And like all tricyclic antidepressants made my
 dry eye worse. Gabapentin and pregablin also make my dyr eye worse. Even before getting on any medication for neuropathy pain, I never am able 
 to sleep through the night without putting vicous eye drops in. 
@@ -22,7 +22,6 @@ said. So she then referred me to to Dr. Ausin, a Parkview Pain Management physic
 peripheral neuropathy patients had been helped by such a device (she didn't say how much).
 
 I was diagnosed on June 28, 2021 with severe polyneuropathy and told two days later by Credo Medicine I need to see a neurologist for ongonig care. 
-I now know that I could just have well gone to a pain doctor.
 
 I was able to see Dr Austin three days after Richmond referred me to him. Dr. Austin told me that since I was an established patient of Dr. Karl, who also did
 spinal stimulator implatation, and who Dr. Autin said was "equivaltent to me", I really should follow up with him. Unfortunetly, the earliest I could get in to see
