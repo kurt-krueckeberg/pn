@@ -4,16 +4,22 @@ neuropaty, on my appointment with Dr. Karl. I see Dr. Karl on September 1st. I h
 fifteen minutes late, it was a very cursory appointment. But Erin emphasized updating her about my appointment with Dr. Karl ("since he isn't in the
 Parkview system.")
 
-I think Megan had called me to confirm what medications I was taking: what had Dr. Karl prescribed exactly at the September 1st appointment? Maybe
-she had concerns that I was mixing medications from two doctors--who knows?
+I think Megan had called me to find out what medications I Dr. Karl had Dr. Karl prescribed when I saw him on September 1st appointment? Maybe
+she had concerns that I was mixing medications from two providers--who knows?
+
+And I now don't really see much point in going to neurologist (or NP in a neurolgy practice). Pain doctors prescribe gabapentin and pregabalin, which
+apparently are the only two drugs neruolgy practices prescript--althouh Dr. Baht did prescribe amytriptyline onths ago after I told night time
+pain in my fingers and finger tip was ruining my sleep. Amytriptyline gave me terrible heartburn. And like all tricyclic antidepressants made my
+dry eye worse. Gabapentin and pregablin also make my dyr eye worse. Even before getting on any medication for neuropathy pain, I never am able 
+to sleep through the night without putting vicous eye drops in. 
 
 ## Background to the Call
 
 I first met Erin Richmond NP for the first time, on June 30th, when I established care with Parkview Neurology. The Parkview Neurology appointment scheduler
 never scheduled me one of the Parkview neurologists. At that first appointment with Erin, I told her gabapentin and pregabalin "worsened my dry eye, made
 my eyes uncomfortable to the point that reading for pleasure, something I love, was nearly impossible" and "it made me stupid". That is the gist of what I
-said. She then referred me to to Dr. Ausin, a Parkview Pain Management physician, to discuss whether a spinal stimulator was an option. She said it had
-helped some peripheral neuropathy patients.
+said. So she then referred me to to Dr. Ausin, a Parkview Pain Management physician, to discuss whether a spinal stimulator was an option. She said some
+peripheral neuropathy patients had been helped by such a device (she didn't say how much).
 
 I was diagnosed on June 28, 2021 with severe polyneuropathy and told two days later by Credo Medicine I need to see a neurologist for ongonig care. 
 I now know that I could just have well gone to a pain doctor.
