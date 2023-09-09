@@ -1,5 +1,5 @@
-Wednesday morning, Sept 6h, an assistant to the medical staff at Parkview Neurology, Megan, called me likely in response to two message I had sent, using
-Mychart.parkview.com, to update them on my recent appointment with Dr. Karl. I think the call was because I am getting medications from two different providers,
+Wednesday morning, Sept 6h, Megan, who is an assistant to the medical staff at Parkview Neurology, called me likely in response to two message I had sent the week
+before, using <Mychart.parkview.com>, to update them on my recent appointment with Dr. Karl. I think the call was because I am getting medications from two different providers,
 Erin Richmond, NP, Parkview Neurology, and Dr. Jon Karl of Orthopedics North East.
 
 I was able to describe to 
