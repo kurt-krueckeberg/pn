@@ -1,7 +1,7 @@
 Wednesday morning, Sept 6h, the assistant to the medical staff at  Parkview Neurology called me likely in response to message I had sent to
 update them on my recent appointment with Dr. Karl. 
 
-## Brief Background
+## Background to the Call
 
 I had a follow up appointment the Wednesday before, on August 30th, with
 Erin Richmond NP, who I seen for first time ever, on June 30th, when I established care with Parkview Neurology. They appointment was never scheduled to
