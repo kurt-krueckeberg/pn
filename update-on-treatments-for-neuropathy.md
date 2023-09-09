@@ -84,10 +84,12 @@ levels. Such devices are available in any drug store. His experience was very in
 rate your doctor. This website is affliated with the German equivalent of the AMA. If a doctor is "reviewed" unfavorably it
 could eventually result his or her medical suspension.
 
-[The Role of Medications in Causing Dry Eye](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3459228/).
+* [The Role of Medications in Causing Dry Eye](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3459228/). This is desribes exactly my problem now
+  with the medications I am being given and the difficulty I face explaining this to my providers, who are not trained to understand this.
 
-[Cleveland Clinic article on Periperhal Neuropathy](https://my.clevelandclinic.org/health/diseases/14737-peripheral-neuropathy#management-and-treatment).
-[FDA Approve Spinal Cord Stimulator for Diabetic PN](https://www.painnewsnetwork.org/stories/2021/7/27/nbsp-fda-approves-spinal-cord-stimulator-for-diabetic-neuropathy)
+* [Cleveland Clinic article on Periperhal Neuropathy](https://my.clevelandclinic.org/health/diseases/14737-peripheral-neuropathy#management-and-treatment).
+
+* [FDA Approve Spinal Cord Stimulator for Diabetic PN](https://www.painnewsnetwork.org/stories/2021/7/27/nbsp-fda-approves-spinal-cord-stimulator-for-diabetic-neuropathy)
 
 A reader commented on above article:
 
