@@ -23,18 +23,23 @@ peripheral neuropathy patients had been helped by such a device (she didn't say 
 
 I was diagnosed on June 28, 2021 with severe polyneuropathy and told two days later by Credo Medicine I need to see a neurologist for ongonig care. 
 
-I was able to see Dr Austin three days after Richmond referred me to him. Dr. Austin told me that since I was an established patient of Dr. Karl, who also did
-spinal stimulator implatation, and who Dr. Autin said was "equivaltent to me", I really should follow up with him. Unfortunetly, the earliest I could get in to see
-Dr Karl (to discuss whether spinal cord stimulation was a realistic option for my pain) was September 1st. Dr Austin also told me that the four
-main medications to treat peripheral neuropathy pain.
+I was able to see Dr Austin three days after Erin Richmond referred me to him, on Jly 3rd, 2023. Dr. Austin told me that since I was an established patient
+of Dr. Karl, who also did spinal stimulator implantation and who Dr. Austin said, "was equivaltent to me", I should follow up with Dr. Karl.
+Unfortunately the earliest I could get in to see Dr Karl was in two months, on September 1st. 
 
-The appointment two and half weeks ago was very brief, half an appointment really, because I was fifteen minutes late. It told her that when I saw 
+Dr Austin also told me that the four main medications to treat peripheral neuropathy pain were  gabapentin, pregabapion (Lyrica), Cymbalta, and--I belive--amitriptyline. 
 
-At the July 3rd appoint with with Dr Austin, he and I discusses what medications are used to treat neuropathy pain. He said that their are four main
-medications: gabapentin, pregabapion (Lyrica), Cymbalta, and--I belive--amitriptyline. 
+The appointment with Erin Richmond NO, on Agusut 30th, was supposed to be about what Dr. Austin said ("see Dr. Karl") but it was very brief,
+reallu just half an appointment, because I was fifteen minutes late. It told her that would see saw Dr Karl in two days, on Sept 1st.
 
-I saw Dr Karl, on Sept 1st, too, to talk the possibility of spinal cord stimulator. He wanted me first to try protriptyline 10mg because I told him
-Amytripline caused terrible heatburn and nortriptyline made me wired.
+When I say Dr. Karl on September 1st, I told him amitriptyline (that Dr. Baht prescibed) had give me bad heartburn and nortiptyline (that Dr. Karl
+had prescribed in 2022) gave me isomnia. I also told Dr. Karl that the medications I was taking worsened my dry eye. But I don't think the message
+got through. The medications I am on are only moderately effective at controlling my night time pain. But there are worsening my quality of life
+significantly. The hate these medications because my eyes irritable me all the time, and I can't read like I want.
+
+Neurologists, family practice physican, nurses, psychologist had no clue how devastating dry eye syndrome is or what it feels like.
+The first line medications for treating neuropathy are anticonvulsives, gabapentin and pregabalin, and tricyclic antidepressants, the main one
+being amitriptyline, and other antidepressents like Effexor. These medications have known side effect of dry mouth.
 
 I had a 2nd appt with Erin August 3oth, but it was only a "half appointment" because I wasn't on time. I told her Dr. Austin had recommended
 I see Dr. Karl about the spinal cord stimulator because I already was an established patient of Dr Karl. But I couldn't get in to see
