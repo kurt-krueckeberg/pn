@@ -62,14 +62,20 @@ I see Dr. Karl about the spinal cord stimulator because I already was an establi
 Dr. Karl until September 1st. She said to keep them update on that appointed, which I did using MyChart.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3459228/
 
 You know, I don't really want to be going to two "doctors" for the same problem--getting two different medications from each. I think the reason
-for the call was to inquire if I was taking both Lyrica and Gabapentin. I had experimented with lyrical at bedtime--in addition the the gabapetin--
-and I told Dr. Karl this and he said he sometimes precribes both. He told me to just take gabapetin 3x day (as Erin Richmond prescribed), and he
-alos prescribed gabapentin.
+for the call (From Megan, the Parkview Neurology staff assistant) was to inquire if I was taking both Lyrica and Gabapentin. I had experimented with lyrical at
+bedtime--in addition the the gabapetin--and I told Dr. Karl this, and he said he sometimes precribes both medications. He told me to just take gabapetin 3x
+a day (as Erin Richmond prescribed), and he also prescribed 10mg of nortriptyline. I tried it one night. It didn't help and it gave
+me epigastic pain after I swallowed a gabapentin around 3am. I told ONE this via their patient portal on September 7th. So Dr. Karls's PA
+prescribed cymbalta. I told them it gives insomnia. So the prescribe--guess--Effexor, anti-depressant, a class of medication that worsens
+dry eye.
 
-The upshot of the call was: I got to describe in detail the side effects--the worsening of my dry eye syndrome, the inability to read for
-pleasure--that both anti-convusives like gabapentin and pregabalin and tricyclics like amytriptyline, nortriptyline, etc cause. 
-I explained my medications history, how amtriptyline had caused me heartburn over 20 years ago, how I
-have very bad dry eye syndrome because of LASIK. I told her my tear break up time was immediate, zero, following LASIK.
+I think I also too it once like ten years ago in Dallas. I caused me heartburn.
+
+Back to the call from Megan. It was pleasantly surprised that she listened for ten mintues while I described in detail the side effects--the worsening
+of my dry eye syndrome, the inability to read for pleasure--that both anti-convusives like gabapentin and pregabalin and tricyclics like amytriptyline, nortriptyline, etc cause. 
+I explained that LASIK resulted in bad dry eye and now medications like gabapentin, lyrica, etc make my eyes really uncomfortalbe; how amtriptyline had caused
+me heartburn over 20 years ago. I even explained what "tear break up time" was. That instead of the normal 30 seconds my tear-brekup time was immediate, zero seconds,
+following LASIK.
 
 And during the German lesson the teacher and I discussed how medical care works in Germany. He told me that if you are in your
 thirties ans suspect you might have blood sugar problems, you are likely to be told, no, that is not your problem.
