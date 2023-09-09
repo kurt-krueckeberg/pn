@@ -1,4 +1,4 @@
-Wednesday morning, Sept 6h, Megan, who is an assistant to the medical staff at Parkview Neurology, called me in response to the two messages I had sent using
+Wednesday morning, Sept 6h, Megan, an assistant to the medical staff at Parkview Neurology, called me in response to the two messages I had sent using
 [Mychart.parkview.com](https://mychart.parkview.com) the week before, to update Erin Richmond, NP, the provider who I am seeing at PArkview Neurology about my
 neuropaty, on my appointment with Dr. Karl. I see Dr. Karl on September 1st. I had seen Erin Richmon NP two days earlier, on August 30th, but because I was
 fifteen minutes late, it was a very cursory appointment. But Erin emphasized updating her about my appointment with Dr. Karl ("since he isn't in the
