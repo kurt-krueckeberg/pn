@@ -4,8 +4,8 @@ on my appointment, on September 1, 2023, with Dr. Karl. I had seen Erin Richmon 
 fifteen minutes late, it was a very cursory appointment. Erin emphasized I should update her about the upshot of my appointment with Dr. Karl ("since he isn't in the
 Parkview system.")
 
-I think Megan had called me to find out what medications I Dr. Karl had Dr. Karl prescribed when I saw him on September 1st appointment? Maybe
-she had concerns that I was mixing medications from two providers--who knows?
+I think Megan, the Parkview Neurology staff assitant, had called me to find out what medications Dr. Karl had prescribed on September 1st Maybe
+Kurt was mixing medications from two providers and he needed to be called and questioned.
 
 And I now don't really see much point in going to neurologist (or NP in a neurolgy practice). Pain doctors prescribe gabapentin and pregabalin, which
 apparently are the only two drugs neruolgy practices prescribe--althouh Dr. Baht did prescribe amytriptyline onths ago after I told night time
