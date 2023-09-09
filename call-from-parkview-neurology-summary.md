@@ -16,7 +16,7 @@ to sleep through the night without putting in vicous eye drops.
 ## Background to the Call
 
 I first met Erin Richmond NP for the first time, on June 30th, when I established care with Parkview Neurology. The Parkview Neurology appointment scheduler
-never scheduled me one of the Parkview neurologists. At that first appointment with Erin, I told her gabapentin and pregabalin "worsened my dry eye, made
+never scheduled me too see a Parkview neurologist. At that first appointment with Erin, I told her gabapentin and pregabalin "worsened my dry eye, made
 my eyes uncomfortable to the point that reading for pleasure, something I love, was nearly impossible" and "it made me stupid". That is the gist of what I
 said. So she then referred me to to Dr. Ausin, a Parkview Pain Management physician, to discuss whether a spinal stimulator was an option. She said some
 peripheral neuropathy patients had been helped by such a device (she didn't say how much).
