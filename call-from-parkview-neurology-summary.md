@@ -4,14 +4,14 @@ neuropaty, on my appointment with Dr. Karl. I see Dr. Karl on September 1st. I h
 fifteen minutes late, it was a very cursory appointment. But Erin emphasized updating her about my appointment with Dr. Karl ("since he isn't in the
 Parkview system.")
 
-
-I was able to describe to 
+I think Megan had called me to confirm what medications I was taking: what had Dr. Karl prescribed exactly at the September 1st appointment? Maybe
+she had concerns that I was mixing medications from two doctors--who knows?
 
 ## Background to the Call
 
-
-Erin Richmond NP, who I seen for first time ever, on June 30th, when I established care with Parkview Neurology. They appointment was never scheduled to
-include seeing one of the Parkview neurologists.
+I first met Erin Richmond NP for first time ever, on June 30th, when I established care with Parkview Neurology. The scheduler never scheduled me to
+see a Parkview neurologists. At that appointment I told her gabapentin and pregabalin "worsening my dry eye, made my eys uncomfortable, and made reading
+for pleasure, something I love, nearly impossible" and "it made me stupid".
 
 I was able to see Dr Austin three days after Richmond referred me to him. Dr. Austin told me that since I was an established patient of Dr. Karl, who also did
 spinal stimulator implatation, and who Dr. Autin said was "equivaltent to me", I really should follow up with him. Unfortunetly, the earliest I could get in to see
