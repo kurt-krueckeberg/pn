@@ -1,12 +1,15 @@
-Wednesday morning, Sept 6h, Megan, who is an assistant to the medical staff at Parkview Neurology, called me likely in response to the two messages I had sent the week
-before, using [Mychart.parkview.com](https://mychart.parkview.com), to update Erin Richmond, NP, the provider who I am seeing about my neuropaty, on my recent appointment with Dr. Karl. I think the call was because I am getting medications from two different providers,
-Erin Richmond, NP, Parkview Neurology, and Dr. Jon Karl of Orthopedics North East.
+Wednesday morning, Sept 6h, Megan, who is an assistant to the medical staff at Parkview Neurology, called me in response to the two messages I had sent using
+[Mychart.parkview.com](https://mychart.parkview.com) the week before, to update Erin Richmond, NP, the provider who I am seeing at PArkview Neurology about my
+neuropaty, on my appointment with Dr. Karl. I see Dr. Karl on September 1st. I had seen Erin Richmon NP two days earlier, on August 30th, but because I was
+fifteen minutes late, it was a very cursory appointment. But Erin emphasized updating her about my appointment with Dr. Karl ("since he isn't in the
+Parkview system.")
+
 
 I was able to describe to 
 
 ## Background to the Call
 
-I had a follow up appointment the Wednesday before, on August 30th, with
+
 Erin Richmond NP, who I seen for first time ever, on June 30th, when I established care with Parkview Neurology. They appointment was never scheduled to
 include seeing one of the Parkview neurologists.
 
