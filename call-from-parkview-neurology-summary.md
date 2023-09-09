@@ -1,8 +1,10 @@
-Wednesday morning, Sept 6h, immediately after an online German lesson, the assistant to Erin Richmond NP (and likely others) of Parkview Neurology called.
-I saw Erin on June 30th, 2023, and again on August 20th, which was only half an appointment because I was late. The "assistant"  wanted to find what
-medications I'm taking. Am I taking both pregabalin (Lyrica) and gabapentin?
+Wednesday morning, Sept 6h, the assistant to the medical staff at  Parkview Neurology called. I had a follow up appointment the Wednesday before, on August 30th, with
+Erin Richmond NP, who I seen for first time ever, on June 30th, when I established care with Parkview Neurology. I didn't see a neurologist.
 
-Dr. Karl had prescribed pregabalin in June, when we met before the genicular nerve ablation of my right knee, which occurred in mid July. 
+The appointment two and half weeks ago was very brief, half an appointment really, because I was fifteen minutes late. It told her that when I saw Dr. Austin, to
+whom she referred me at the end of June, he told me, since I was established patient of Dr. Karl, who also did spinal stimulator implatation, it was
+best to followup with him. Dr Austin and I did discuss the medications used to treat neuropathy pain. He said that four main medications: gabapentin,
+pregabapion (Lyrica), Cymbalta, and--I belive--amitriptyline. 
 
 I saw Dr Karl, on Sept 1st, too, to talk the possibility of spinal cord stimulator. He wanted me first to try protriptyline 10mg because I told him
 Amytripline caused terrible heatburn and nortriptyline made me wired.
