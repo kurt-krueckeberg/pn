@@ -85,7 +85,8 @@ rate your doctor. This website is affliated with the German equivalent of the AM
 could eventually result his or her medical suspension.
 
 * [The Role of Medications in Causing Dry Eye](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3459228/). This is desribes exactly my problem now
-  with the medications I am being given and the difficulty I face explaining this to my providers, who are not trained to understand this.
+  with the medications I am being given and the difficulty I face explaining this to my providers who are not trained to understand it, or to
+  anyone who doesn't suffer from the problem.
 
 * [Cleveland Clinic article on Periperhal Neuropathy](https://my.clevelandclinic.org/health/diseases/14737-peripheral-neuropathy#management-and-treatment).
 
