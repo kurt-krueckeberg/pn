@@ -41,7 +41,7 @@ Neurologists, family practice physican, nurses, psychologist had no clue how dev
 The first line medications for treating neuropathy are anticonvulsives, gabapentin and pregabalin, and tricyclic antidepressants, the main one
 being amitriptyline, and other antidepressents like Effexor. These medications have known side effect of dry mouth.
 
-I had a 2nd appt with Erin August 3oth, but it was only a "half appointment" because I wasn't on time. I told her Dr. Austin had recommended
+I had a 2nd appt with Erin August 30th, but it was only a "half appointment" because I wasn't on time. I told her Dr. Austin had recommended
 I see Dr. Karl about the spinal cord stimulator because I already was an established patient of Dr Karl. But I couldn't get in to see
 Dr. Karl until September 1st. She said to keep them update on that appointed, which I did using MyChart.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3459228/
 
