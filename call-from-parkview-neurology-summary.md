@@ -22,7 +22,7 @@ said. So she then referred me to to Dr. Ausin, a Parkview Pain Management physic
 I was being considered for another option (but not crazy about having wires and a battery pack installed in my back). She said some
 peripheral neuropathy patients had been helped by such a device (she didn't say how much).
 
-I was diagnosed on June 28, 2021 with severe polyneuropathy and told two days later by Credo Medicine I need to see a neurologist for ongonig care. 
+I was diagnosed on June 28, 2021 with severe polyneuropathy and told two days later by Credo Medicine I needed to follow up with a neurologist for ongonig care. 
 
 I was able to see Dr Austin three days after Erin Richmond referred me to him, on Jly 3rd, 2023. Dr. Austin told me that since I was an established patient
 of Dr. Karl, who also did spinal stimulator implantation and who Dr. Austin said, "was equivaltent to me", I should follow up with Dr. Karl.
