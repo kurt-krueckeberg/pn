@@ -1,7 +1,7 @@
 # The Poblem
 
 I have peripheral neuropathy that has gotten to the point that I have trouble walking and by 11am my foot and lower legs get really uncomfortable and that grows worse as 
-the day progresse. I cope with this by walking every day on the treadmill for .9 miles. At night I rub my foot and ankles with capsaicin cream. I am
+the day progresse. I cope with this by walking every day on the treadmill at the YMCA for .9 miles. At night I rub my foot and ankles with capsaicin cream. I am
 of course takig gabapentin and other medicines. Thankfully my feet up to now don't cause terrible problems when I sleep, but my hands do.
 
 I am now seeing both a nurse practioner at Parkview Neurology who has precribed 600mg of gabapentin 3x/day, and I am also seeing Dr. Jon Karl, a pain doctor at
