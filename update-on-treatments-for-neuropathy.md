@@ -1,4 +1,4 @@
-# The Poblem
+# The Problem
 
 I have peripheral neuropathy that has gotten to the point that I have trouble walking and by 11am my foot and lower legs get really uncomfortable and that grows worse as 
 the day progresse. I cope with this by walking every day on the treadmill at the YMCA for .9 miles. Every night before bed, I rub my foot and ankles with capsaicin cream.
@@ -10,6 +10,8 @@ terribley uncomfortable and I can't really even read for pleasure, something I l
 Severe dry eye syndrome is not like having dry skin. Eye drops don't replace the lack of natural tears. I have had dry eye disease since having LASIK in 2003. In the months
 following LASIK, I was also diagnosed with [Superficial Punctate Keratitis](https://www.allaboutvision.com/conditions/cornea/punctate-keratitis/). Spots on my cornea
 where the cells had become so dry they were damaged. You can't read much at all. To "read" I had to listen to audiobooks.
+
+Now I am taking an anticonvulsive, gabapentin, prescribed by Parkview Neurology currently. Dr. Karl indicated that 
 
 
 
