@@ -11,7 +11,13 @@ Severe dry eye syndrome is not like having dry skin. Eye drops don't replace the
 following LASIK, I was also diagnosed with [Superficial Punctate Keratitis](https://www.allaboutvision.com/conditions/cornea/punctate-keratitis/). Spots on my cornea
 where the cells had become so dry they were damaged. You can't read much at all. To "read" I had to listen to audiobooks.
 
-Now I am taking an anticonvulsive, gabapentin, prescribed by Parkview Neurology currently. Dr. Karl indicated that 
+Now I am taking gabapentin, prescribed by Parkview Neurology currently. Dr. Karl prescribed an tricyclic protriptyline. I told him
+amitriptyline caused me bad hearburn and the nortriptyline he had prescribed (at a follow up foloowing my first kneee ablation) made me "wired" when I 
+took it before bed. 
+
+But anticonvulsives, like gabapentin and pregabllin (Lyrica), and tricyclic medications, all have know side effects of dry mouth. If you are someone with bad dry eye
+like me, that means worse dry eye. This medications are making my dry eye intolerable. I want to get off them in the worse way. How do you do that but
+also 
 
 
 
