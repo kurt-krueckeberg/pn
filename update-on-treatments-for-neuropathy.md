@@ -1,8 +1,17 @@
 # The Poblem
 
 I have peripheral neuropathy that has gotten to the point that I have trouble walking and by 11am my foot and lower legs get really uncomfortable and that grows worse as 
-the day progresse. I cope with this by walking every day on the treadmill at the YMCA for .9 miles. At night I rub my foot and ankles with capsaicin cream. I am
-of course takig gabapentin and other medicines. Thankfully my feet up to now don't cause terrible problems when I sleep, but my hands do.
+the day progresse. I cope with this by walking every day on the treadmill at the YMCA for .9 miles. Every night before bed, I rub my foot and ankles with capsaicin cream.
+Thankfully my feet up to now don't cause terrible problems when I sleep, but my hands do.
+
+I am also taking gabapentin and other medicines and they are causing intolerable worsening of my dry eye. And I want to get off such medicines because they make my eyes
+terribley uncomfortable and I can't really even read for pleasure, something I love and would do every do.
+
+Severe dry eye syndrome is not like having dry skin. Eye drops don't replace the lack of natural tears. I have had dry eye disease since having LASIK in 2003. In the months
+following LASIK, I was also diagnosed with [Superficial Punctate Keratitis](https://www.allaboutvision.com/conditions/cornea/punctate-keratitis/). Spots on my cornea
+where the cells had become so dry they were damaged. You can't read much at all. To "read" I had to listen to audiobooks.
+
+
 
 I am now seeing both a nurse practioner at Parkview Neurology who has precribed 600mg of gabapentin 3x/day, and I am also seeing Dr. Jon Karl, a pain doctor at
 Orthopedics North East. I am an established patient of Dr. Karl. He did a nerve ablation (for the 2nd time in two years) of the genicular nerve(s) of my right knee.
