@@ -128,11 +128,13 @@ could eventually result his or her medical suspension.
   with the medications I am being given and the difficulty I face explaining this to my providers who are not trained to understand it, or to
   anyone who doesn't suffer from the problem.
 
+I bookmarked marked these articles that are unrelated to what I wrote above, simply so I wouldn't loose note of them
 * [Cleveland Clinic article on Periperhal Neuropathy](https://my.clevelandclinic.org/health/diseases/14737-peripheral-neuropathy#management-and-treatment).
+  Clear and down to earth and thorough explanations.
 
 * [FDA Approve Spinal Cord Stimulator for Diabetic PN](https://www.painnewsnetwork.org/stories/2021/7/27/nbsp-fda-approves-spinal-cord-stimulator-for-diabetic-neuropathy)
 
-A reader commented on above article:
+A reader obviously disgrunted commented on the above article characterizing it as misleading marketing:
 
 > I don't believe this hype about another spinal stimulator. I've personally witnessed the harm these implanted machines cause from involuntary
 electrocution to explosion. I have not witnessed any positive results. Again, it's advocacy for profit. We are now wise to the methods of these
