@@ -1,3 +1,23 @@
+# The Poblem
+
+I have peripheral neuropathy that has gotten to the point that I have trouble walking and by 11am my foot and lower legs get really uncomfortable and that grows worse as 
+the day progresse. I cope with this by walking every day on the treadmill for .9 miles. At night I rub my foot and ankles with capsaicin cream. I am
+of course takig gabapentin and other medicines. Thankfully my feet up to now don't cause terrible problems when I sleep, but my hands do.
+
+I am now seeing both a nurse practioner at Parkview Neurology who has precribed 600mg of gabapentin 3x/day, and I am also seeing Dr. Jon Karl, a pain doctor at
+Orthopedics North East. I am an established patient of Dr. Karl. He did a nerve ablation (for the 2nd time in two years) of the genicular nerve(s) of my right knee.
+And since he also does spinal cord simulators, I am seeing him about that (but it hasn't been seriously considered yet).
+
+Do I really need two "doctors" for one peripheral neuropathy? Since Dr. Karl is not part of the Parkview system and since gabapentin is now a controlled substance,
+that increases (I imagine) the burden of the nurse practioner at Parkview Neurology. She needs to kept abreast of what medications Dr. Karl might
+prescribe. Some patients naturally see two doctors because they want to 
+
+
+
+
+
+
+problem is
 Wednesday morning, Sept 6h, Megan, an assistant to the medical staff at Parkview Neurology, called me in response to the two messages I had sent using
 [Mychart.parkview.com](https://mychart.parkview.com) the week before, sent to update Erin Richmond, NP, the provider who I am seeing at Parkview Neurology,
 on my appointment, on September 1, 2023, with Dr. Karl. I had seen Erin Richmon NP two days earlier, on August 30th, but because I was
