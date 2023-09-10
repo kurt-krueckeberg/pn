@@ -15,11 +15,18 @@ Now I am taking gabapentin, prescribed by Parkview Neurology currently. Dr. Karl
 amitriptyline caused me bad hearburn and the nortriptyline he had prescribed (at a follow up foloowing my first kneee ablation) made me "wired" when I 
 took it before bed. 
 
-But anticonvulsives, like gabapentin and pregabllin (Lyrica), and tricyclic medications, all have know side effects of dry mouth. If you are someone with bad dry eye
-like me, that means worse dry eye. This medications are making my dry eye intolerable. I want to get off them in the worse way. How do you do that but
-also 
+But anticonvulsives, like gabapentin and pregabllin (Lyrica), and tricyclic medications, like amitriptyline (or nortriptyline, protriptyline) all have known side effects
+of dry mouth. If you are someone with bad dry eye like me, that all means they will make your dry eye worse. This medications are making my dry eye intolerable. I want to
+get off them in the worse way. How do you do that but sleep through the night? My hand, mainly my finger and espeically the ends of my fingers, go "to sleep". I wake up
+at 3am or 4am groggy, turn over in the bed, then predicatably feel the tingling and in my fingers and the soreness at the end of my fingers (mainly the middle finger and 
+thumb, and it is worse in my right hand). 
 
+I am not at all crazy about the idea that the "solution" is to have wires surgically inserted into my spine, and a battery implanted in my lower back (which would only
+be done after one-week trial showed the spinal stimulator was truly helpful). I don't want that. I just want to sleep at night and not have my eye comfort (which
+has never been normal since LASIK) back.
 
+Doctors who aren't eye care professionals don't have never probably heard of eye break up time (my tear break up time following LASIK was 0 seconds, immediate). The --
+I imagine -- have never had a neuropathy patient who also has bad dry eye made much worse by the medications they are prescribing.
 
 I am now seeing both a nurse practioner at Parkview Neurology who has precribed 600mg of gabapentin 3x/day, and I am also seeing Dr. Jon Karl, a pain doctor at
 Orthopedics North East. I am an established patient of Dr. Karl. He did a nerve ablation (for the 2nd time in two years) of the genicular nerve(s) of my right knee.
@@ -27,14 +34,10 @@ And since he also does spinal cord simulators, I am seeing him about that (but i
 
 Do I really need two "doctors" for one peripheral neuropathy? Since Dr. Karl is not part of the Parkview system and since gabapentin is now a controlled substance,
 that increases (I imagine) the burden of the nurse practioner at Parkview Neurology. She needs to kept abreast of what medications Dr. Karl might
-prescribe. Some patients naturally see two doctors because they want to 
+prescribe. 
 
+## A "Typical" Week
 
-
-
-
-
-problem is
 Wednesday morning, Sept 6h, Megan, an assistant to the medical staff at Parkview Neurology, called me in response to the two messages I had sent using
 [Mychart.parkview.com](https://mychart.parkview.com) the week before, sent to update Erin Richmond, NP, the provider who I am seeing at Parkview Neurology,
 on my appointment, on September 1, 2023, with Dr. Karl. I had seen Erin Richmon NP two days earlier, on August 30th, but because I was
