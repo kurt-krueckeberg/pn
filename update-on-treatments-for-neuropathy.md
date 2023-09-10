@@ -109,7 +109,7 @@ me epigastic pain after I swallowed a gabapentin around 3am. I told ONE this via
 prescribed cymbalta. I told them it gives insomnia. So the prescribe--guess--Effexor, anti-depressant, a class of medication that worsens
 dry eye.
 
-I think I also too it once like ten years ago in Dallas. I caused me heartburn.
+I think I also too it once like ten years ago in Dallas. It caused me heartburn.
 
 Back to the call from Megan. It was pleasantly surprised that she listened for ten mintues while I described in detail the side effects--the worsening
 of my dry eye syndrome, the inability to read for pleasure--that both anti-convusives like gabapentin and pregabalin and tricyclics like amytriptyline, nortriptyline, etc cause. 
