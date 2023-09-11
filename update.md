@@ -5,6 +5,8 @@
 I got agitated last week and captured what was running around in my head.  Who even does this sort thing? What as mess neuropathy and the "treatments" has
 caused.
 
+## "Dear Diary"
+
 I have peripheral neuropathy that has gotten to the point that I have trouble walking and by 11am my foot and lower legs get really uncomfortable and that grows worse as 
 the day progresses. I cope with this by walking every day on the treadmill at the YMCA for .9 miles. Every night before bed, I rub my foot and ankles with capsaicin cream.
 Thankfully my feet up to now don't cause terrible problems when I sleep, but my hands do.
