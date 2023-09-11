@@ -144,7 +144,6 @@ could eventually result his or her medical suspension.
 * [FDA Approve Spinal Cord Stimulator for Diabetic PN](https://www.painnewsnetwork.org/stories/2021/7/27/nbsp-fda-approves-spinal-cord-stimulator-for-diabetic-neuropathy)
 
 A reader obviously disgrunted commented on the above article characterizing it as misleading marketing:
-
 > I don't believe this hype about another spinal stimulator. I've personally witnessed the harm these implanted machines cause from involuntary
 electrocution to explosion. I have not witnessed any positive results. Again, it's advocacy for profit. We are now wise to the methods of these
 psychopaths of creating profit at the expense of the desperately ill under the guise of some kind of medical altruism. The questions remain.
